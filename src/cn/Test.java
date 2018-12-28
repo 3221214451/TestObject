@@ -5,6 +5,7 @@ public class Test {
         System.out.print("66666666");
         for (int i=3;i<9;i++){
             System.out.print(i);
+            System.out.print("dsld;gkjeha");
         }
     }
 }
